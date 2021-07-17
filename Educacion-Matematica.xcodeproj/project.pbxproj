@@ -24,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		CE2AFC0126A32FD000526EAF /* LA_INTRODUCCION_DEL_METODO_ANALITICO_EN (1).pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "LA_INTRODUCCION_DEL_METODO_ANALITICO_EN (1).pdf"; sourceTree = "<group>"; };
+		CE2AFC0226A3310600526EAF /* Estudio_de_las_aplicaciones_de_las_conic.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Estudio_de_las_aplicaciones_de_las_conic.pdf; sourceTree = "<group>"; };
 		CEA22B4426A2B0CF00626BFB /* Educacion-Matematica */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Educacion-Matematica"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEA22B4726A2B0CF00626BFB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -42,6 +43,7 @@
 		CEA22B3B26A2B0CF00626BFB = {
 			isa = PBXGroup;
 			children = (
+				CE2AFC0226A3310600526EAF /* Estudio_de_las_aplicaciones_de_las_conic.pdf */,
 				CE2AFC0126A32FD000526EAF /* LA_INTRODUCCION_DEL_METODO_ANALITICO_EN (1).pdf */,
 				CEA22B4626A2B0CF00626BFB /* Educacion-Matematica */,
 				CEA22B4526A2B0CF00626BFB /* Products */,
